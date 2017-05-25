@@ -1,0 +1,7 @@
+memo = "ac9d1c86121142fdaa3dabafa8710b1d31fe05f8ce6e0adb21895f094eea61ef"
+
+[[projects]]
+  name = "github.com/go-redis/redis"
+  packages = [".","internal","internal/consistenthash","internal/hashtag","internal/pool","internal/proto"]
+  revision = "368f0ea0bac726049f4a81aebfee0a76c91c50a7"
+  version = "v6.3.3"
